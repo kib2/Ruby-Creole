@@ -1,0 +1,18 @@
+= Ruby Creole
+
+A full Creole 1.0 Markup lib.
+
+== Why ?
+
+Because I needed one, I just can't live without the Creole syntax.
+I've found one in Ruby, but it was only based on regexps, so I
+cannot trust it.
+
+This one uses very simple regexps AND two state machines.
+
+== TODO
+
+- Build a gem (I need to learn how-to);
+- Plugin system ?
+- Escape mechanism isn't finished yet, but essential features are already there.
+- Add other formatters ie LaTeX or Lout ones.
