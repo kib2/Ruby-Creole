@@ -13,6 +13,7 @@ This one uses very simple regexps AND two state machines.
 == How to use it ?
 
 There's a sample 'test_creole.rb' : all is inside.
+Launch it, you should now have an 'out.html' file.
 
 == TODO
 
